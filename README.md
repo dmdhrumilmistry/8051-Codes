@@ -8,6 +8,8 @@
 
 - 9 Patterns for LED on Port 2 with Timer 1 Mode 1
 
+` Note: Default Delay used is 50ms to get delay of .5s call Delay500 instead of Delay` i.e ` ACALL DELAY500 ` instead of ` ACALL DELAY `
+
 ### Follow Me on:
   
   <p align ="left">
